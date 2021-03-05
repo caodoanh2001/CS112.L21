@@ -8,6 +8,8 @@
 ## Giới thiệu
 * Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
 * Mã lớp: CS114.L21
+* Nhóm: 4
+* Chủ đề: 17 (Giới thiệu phương pháp thiết kế thuật toán: Graph Algorithms (2))
 * Năm học: HK2 (2020-2021)
 
 ### Giảng viên
