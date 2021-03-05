@@ -12,10 +12,10 @@
 * Chủ đề: 17 (Giới thiệu phương pháp thiết kế thuật toán: Graph Algorithms (2))
 * Năm học: HK2 (2020-2021)
 
-### Giảng viên
+## Giảng viên
 * Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn
 
-### Thành viên nhóm
+## Thành viên nhóm
 
 | STT | Họ tên | MSSV | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- |
