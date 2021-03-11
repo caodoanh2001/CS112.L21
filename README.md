@@ -19,7 +19,7 @@
 * **Mã môn học:** CS112
 * **Mã lớp:** CS112.L21
 * **Năm học:** HK2 (2020 - 2021)
-* **Giảng viên:** **Ths. Nguyễn Thanh Sơn** - *sonnt@uit.edu.vn*
+* **Giảng viên:** Ths. Nguyễn Thanh Sơn - *sonnt@uit.edu.vn*
 
 ## GIỚI THIỆU NHÓM
 * **Số thứ tự nhóm:** 4
