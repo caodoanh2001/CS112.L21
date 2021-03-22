@@ -1,10 +1,12 @@
 # BOT - TRẠM THU PHÍ
 
 ## 1. Abstraction(Trừu tượng hóa):
-- Tìm p, q và mảng con lớn nhất nằm trong khoảng p đến q. Nếu có nhiều cách chọn thì chọn p nhỏ nhất
+- Tìm `p`, `q` và `giá trị` mảng con lớn nhất nằm trong khoảng `p` đến `q`. Nếu có nhiều cách chọn thì chọn `p nhỏ nhất`
+- 
 ## 2. Pattern recognition(Nhận dạng mẫu):
 - Kỹ thuật áp dụng: Duyệt
 - Đặc điểm nhận dạng: Chọn khoảng từ `p` đến `q` sao cho `lợi nhuận` *cao nhất* hoặc *lỗ ít nhất*
+
 ## 3. Algorithm designed(Thiết kế thuật toán):
 - Nếu `a[i] < 0` với mọi `i = 1 -> n`:
   -  Tổng lãi = `max{a[i], i = 1 -> n}`
@@ -23,3 +25,5 @@
 
 ## 4. Complexity(Độ phức tạp):
 - Ta chỉ chạy một vòng lặp cho chương trình nên độ phức tạp là `O(n)`
+
+## 5. Jupyter notebook: [Click here](./BOT.ipynb)
