@@ -1,4 +1,4 @@
-# SEAWEED - TẢO BIÊN
+# SEAWEED - TẢO BIỂN
 
 ## 1. Abstraction(Trừu tượng hóa):
 - Tính kết quả `n * Fibonacci(2k + 1)`
