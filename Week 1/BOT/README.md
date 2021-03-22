@@ -1,7 +1,7 @@
 # BOT - TRẠM THU PHÍ
 
 ## 1. Abstraction(Trừu tượng hóa):
-- Tìm `p`, `q` và `giá trị` mảng con lớn nhất nằm trong khoảng `p` đến `q`. Nếu có nhiều cách chọn thì chọn `p nhỏ nhất`
+- Tìm `p`, `q` và mảng con lớn nhất nằm trong khoảng `p` đến `q`. Nếu có nhiều cách chọn thì chọn `p nhỏ nhất`
 
 ## 2. Pattern recognition(Nhận dạng mẫu):
 - Kỹ thuật áp dụng: Duyệt
