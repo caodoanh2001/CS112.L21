@@ -33,12 +33,14 @@ Từ hai bảng trên, ta suy ra được `kết quả` của `n` cá thể sau 
   - Nếu `n = 1` trả về `1`
   - Trường hợp còn lại trả về `Fibonacci(n - 1) + Fibonacci(n - 2)`
 ### 3.2. Nhân ma trận ([Fibonacci Q-Matrix](https://mathworld.wolfram.com/FibonacciQ-Matrix.html))
-- Fibonacci dùng nhân ma trận:
+- Xem chi tiết ở [đây](./SEAWEED.ipynb)
   
 ## 4. Complexity(Độ phức tạp):
 ### 4.1. Đệ quy
 - Đối với đệ quy thì ta không có quy chuẩn nào để đánh giá độ phức tạp, ở trường hợp này ta thấy số Fibonacci tăng theo cấp số nhân
 - Độ phức tạp trong trường hợp này: `O(2^n)`
 ### 4.2. Nhân ma trận ([Fibonacci Q-Matrix](https://mathworld.wolfram.com/FibonacciQ-Matrix.html))
+- Độ phức tạp `O(n)`
+- Xem chi tiết ở [đây](./SEAWEED.ipynb)
 
 ## 5. Jupyter notebook: [Click here](./SEAWEED.ipynb)
