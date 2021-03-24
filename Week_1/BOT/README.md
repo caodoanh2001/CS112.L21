@@ -26,4 +26,4 @@
 ## 4. Complexity(Độ phức tạp):
 - Ta chỉ chạy một vòng lặp cho chương trình nên độ phức tạp là `O(n)`
 
-## 5. Jupyter notebook: [Click here](./BOT.ipynb)
+## 5. Jupyter notebook: [BOT.ipynb](./BOT.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caohungphu/CS112.L21/blob/main/Week_1/BOT/BOT.ipynb)
