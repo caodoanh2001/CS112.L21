@@ -43,4 +43,4 @@ Từ hai bảng trên, ta suy ra được `kết quả` của `n` cá thể sau 
 - Độ phức tạp `O(n)`
 - Xem chi tiết ở [đây](./SEAWEED.ipynb)
 
-## 5. Jupyter notebook: [Click here](./SEAWEED.ipynb)
+## 5. Jupyter notebook: [SEAWEED.ipynb](./SEAWEED.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caohungphu/CS112.L21/blob/main/Week_1/SEAWEED/SEAWEED.ipynb)
