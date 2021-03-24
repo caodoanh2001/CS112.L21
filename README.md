@@ -44,8 +44,8 @@
 ## THƯ MỤC
 
 - [x] [Week 1](Week%201)
-  - [x] [BOT - Trạm thu phí](Week%201/BOT)
-  - [x] [SEAWEED - Tảo biển](Week%201/SEAWEED)
+  - [x] [BOT - Trạm thu phí](Week_1/BOT)
+  - [x] [SEAWEED - Tảo biển](Week_1/SEAWEED)
 
 <!-- Footer -->
 `Copyright © 2021`
