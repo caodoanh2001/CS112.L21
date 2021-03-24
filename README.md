@@ -28,6 +28,7 @@
 
 ## GIỚI THIỆU NHÓM
 * **Số thứ tự nhóm:** 4
+* **Tên nhóm:** L21.N04
 
 | STT | Họ tên | MSSV | Vai trò | Email | Github | Facebook |
 | :---: | --- | --- | --- | --- | --- | --- |
