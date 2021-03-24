@@ -40,7 +40,7 @@ Từ hai bảng trên, ta suy ra được `kết quả` của `n` cá thể sau 
 - Đối với đệ quy thì ta không có quy chuẩn nào để đánh giá độ phức tạp, ở trường hợp này ta thấy số Fibonacci tăng theo cấp số nhân
 - Độ phức tạp trong trường hợp này: `O(2^n)`
 ### 4.2. Nhân ma trận ([Fibonacci Q-Matrix](https://mathworld.wolfram.com/FibonacciQ-Matrix.html))
-- Độ phức tạp `O(n)`
+- Độ phức tạp `O(lg(n))`
 - Xem chi tiết ở [đây](./SEAWEED.ipynb)
 
 ## 5. Jupyter notebook: [SEAWEED.ipynb](./SEAWEED.ipynb) or [![Open in colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/caohungphu/CS112.L21/blob/main/Week_1/SEAWEED/SEAWEED.ipynb)
