@@ -9,10 +9,15 @@
 <h1 align="center"><b>CS112.L21 - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN</b></h1>
 <h1 align="center"><b>ALGORITHM ANALYSIS AND DESIGN</b></h1>
 
+[![Status](https://img.shields.io/badge/status-woking-brightgreen?style=flat-square)](https://github.com/caohungphu/CS112.L21)
+[![GitHub contributors](https://img.shields.io/github/contributors/caohungphu/CS112.L21?style=flat-square)](https://github.com/caohungphu/CS112.L21/graphs/contributors)
+[![Status](https://img.shields.io/badge/language-python-green?style=flat-square)](https://github.com/caohungphu/CS112.L21)
+
 ## BẢNG MỤC LỤC
 * [Giới thiệu môn học](#giới-thiệu-môn-học)
 * [Giới thiệu nhóm](#giới-thiệu-nhóm)
 * [Chủ đề báo cáo](#chủ-đề-báo-cáo)
+* [Thư mục](#thư-mục)
 
 ## GIỚI THIỆU MÔN HỌC
 * **Tên môn học:** PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
@@ -34,6 +39,12 @@
 ## CHỦ ĐỀ BÁO CÁO
 * **Số thứ tự chủ đề:** 17 
 * **Tên chủ đề:** Giới thiệu phương pháp thiết kế thuật toán: Graph Algorithms (2)
+
+## THƯ MỤC
+
+- [x] [Week 1](Week%201)
+  - [x] [BOT - Trạm thu phí](Week%201/BOT)
+  - [x] [SEAWEED - Tảo biển](Week%201/SEAWEED)
 
 <!-- Footer -->
 `Copyright © 2021`
